@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Nightfury",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

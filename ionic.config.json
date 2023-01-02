@@ -1,0 +1,8 @@
+{
+  "name": "Nightfury",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "9791b35c"
+}
